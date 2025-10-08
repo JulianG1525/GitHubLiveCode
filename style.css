@@ -1,4 +1,8 @@
 p {
+    /* 
+    Red is my favorite color 
+    yadda yadda red is cool
+    */
     color: red;
     text-decoration: underline;
 }
@@ -7,4 +11,13 @@ li {
 }
 a {
     color: orange;
+}
+#myFav {
+    text-decoration: underline;
+    font-weight: bold;
+    text-color: blue;
+}
+.favorite {
+    color: orangered;
+    font-weight: bolder;
 }
